@@ -1,0 +1,23 @@
+.bg-container{
+    background-color: aquamarine;
+    padding: 20px;
+    
+}
+.img-card1{
+    height: 350px;
+    width: 300px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+}
+.btn-img{
+    padding: 18px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-align: right;
+    background-color: transparent;
+
+}
+.btn-i{
+    text-align: end;
+}
